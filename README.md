@@ -17,19 +17,19 @@ Copyright ⓒ2014 Apache Software Foundation. All Rights Reserved.
 2. apache-phoenix-4.14.3-HBase-1.3-src/phoenix-core/src/main/java/org/apache/phoenix/util/<strong>PhoenixRuntime.java</strong>
     * Method: <strong>executeStatements</strong><br>
     Change Return Type into <strong>json String List</strong>
-    >~~~java
+    ~~~java
     public ArrayList<String> executeStatements
     ~~~
 3. apache-phoenix-4.14.3-HBase-1.3-src/phoenix-core/src/it/java/org/apache/phoenix/end2end/<strong>ExecuteStatementsIT.java</strong>
     * Method: <strong>testExecuteStatements</strong><br>
     Skip 2 line
-    >~~~java
+    ~~~java
     [82]    //int nStatements = PhoenixRuntime.executeStatements(conn, new StringReader(statements), binds);
     [83]    //assertEquals(7, nStatements);
     ~~~
 4. apache-phoenix-4.14.3-HBase-1.3-src-v10/phoenix-core/<strong>pom.xml</strong>
     * Add dependency
-    >~~~
+    ~~~
     <dependency>
         <groupId>com.googlecode.json-simple</groupId>
         <artifactId>json-simple</artifactId>
@@ -38,7 +38,7 @@ Copyright ⓒ2014 Apache Software Foundation. All Rights Reserved.
     ~~~
 5. Maven Compile
     * Linux Command
-    >~~~
+    ~~~
     cd apache-phoenix-4.14.3-HBase-1.3-src
     mvn package -DSkipTests (Error occurred, but keep going!)
     cd phoenix-client

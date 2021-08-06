@@ -1,0 +1,6 @@
+org/apache/phoenix/flume/serializer/CustomSerializer.class
+org/apache/phoenix/flume/PhoenixSinkIT.class
+org/apache/phoenix/flume/CsvEventSerializerIT.class
+org/apache/phoenix/flume/RegexEventSerializerIT.class
+org/apache/phoenix/flume/sink/NullPhoenixSink.class
+org/apache/phoenix/flume/JsonEventSerializerIT.class

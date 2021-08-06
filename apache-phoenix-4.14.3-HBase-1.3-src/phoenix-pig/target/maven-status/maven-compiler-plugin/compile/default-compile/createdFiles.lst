@@ -1,0 +1,11 @@
+org/apache/phoenix/pig/util/QuerySchemaParserFunction$1.class
+org/apache/phoenix/pig/util/PhoenixPigSchemaUtil$Dependencies.class
+org/apache/phoenix/pig/udf/ReserveNSequence.class
+org/apache/phoenix/pig/util/QuerySchemaParserFunction.class
+org/apache/phoenix/pig/util/SqlQueryToColumnInfoFunction.class
+org/apache/phoenix/pig/PhoenixHBaseStorage.class
+org/apache/phoenix/pig/PhoenixHBaseLoader.class
+org/apache/phoenix/pig/util/TableSchemaParserFunction.class
+org/apache/phoenix/pig/util/SqlQueryToColumnInfoFunction$1.class
+org/apache/phoenix/pig/util/PhoenixPigSchemaUtil.class
+org/apache/phoenix/pig/util/TypeUtil.class

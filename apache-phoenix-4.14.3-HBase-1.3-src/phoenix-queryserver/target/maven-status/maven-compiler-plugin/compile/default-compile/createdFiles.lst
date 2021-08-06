@@ -1,0 +1,15 @@
+org/apache/phoenix/queryserver/server/ServerCustomizersFactory.class
+org/apache/phoenix/queryserver/server/RemoteUserExtractorFactory$RemoteUserExtractorFactoryImpl.class
+org/apache/phoenix/queryserver/server/AvaticaServerConfigurationFactory.class
+org/apache/phoenix/queryserver/server/QueryServer.class
+org/apache/phoenix/loadbalancer/service/LoadBalanceZookeeperConf.class
+org/apache/phoenix/queryserver/server/QueryServer$PhoenixRemoteUserExtractor.class
+org/apache/phoenix/queryserver/server/QueryServer$UgiCacheLoader.class
+org/apache/phoenix/queryserver/server/RemoteUserExtractorFactory.class
+org/apache/phoenix/queryserver/server/AvaticaServerConfigurationFactory$AvaticaServerConfigurationFactoryImpl.class
+org/apache/phoenix/queryserver/server/ServerCustomizersFactory$ServerCustomizersFactoryImpl.class
+org/apache/phoenix/queryserver/server/QueryServer$PhoenixDoAsCallback.class
+org/apache/phoenix/queryserver/server/PhoenixMetaFactory.class
+org/apache/phoenix/queryserver/server/PhoenixMetaFactoryImpl.class
+org/apache/phoenix/queryserver/server/QueryServer$PhoenixDoAsCallback$1.class
+org/apache/phoenix/queryserver/register/Registry.class

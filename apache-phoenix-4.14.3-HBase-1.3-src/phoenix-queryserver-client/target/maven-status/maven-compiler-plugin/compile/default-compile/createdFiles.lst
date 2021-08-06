@@ -1,0 +1,4 @@
+org/apache/phoenix/queryserver/client/Driver.class
+org/apache/phoenix/queryserver/client/SqllineWrapper$1.class
+org/apache/phoenix/queryserver/client/ThinClientUtil.class
+org/apache/phoenix/queryserver/client/SqllineWrapper.class

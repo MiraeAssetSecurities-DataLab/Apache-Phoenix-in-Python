@@ -1,0 +1,3 @@
+org/apache/phoenix/kafka/PhoenixConsumerIT.class
+org/apache/phoenix/kafka/PhoenixConsumerIT$PhoenixConsumerThread.class
+org/apache/phoenix/kafka/PhoenixConsumerIT$KafkaProducerThread.class

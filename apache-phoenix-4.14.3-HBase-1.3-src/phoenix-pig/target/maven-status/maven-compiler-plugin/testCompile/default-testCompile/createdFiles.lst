@@ -1,0 +1,12 @@
+org/apache/phoenix/pig/util/TableSchemaParserFunctionTest.class
+org/apache/phoenix/pig/util/TypeUtilTest.class
+org/apache/phoenix/pig/util/PhoenixPigSchemaUtilTest$1.class
+org/apache/phoenix/pig/udf/ReserveNSequenceTestIT.class
+org/apache/phoenix/pig/util/PhoenixPigSchemaUtilTest$2.class
+org/apache/phoenix/pig/PhoenixHBaseStorerIT.class
+org/apache/phoenix/pig/util/QuerySchemaParserFunctionTest.class
+org/apache/phoenix/pig/util/PhoenixPigSchemaUtilTest.class
+org/apache/phoenix/pig/util/SqlQueryToColumnInfoFunctionTest.class
+org/apache/phoenix/pig/BasePigIT.class
+org/apache/phoenix/pig/udf/ReserveNSequenceTestIT$UDFTestProperties.class
+org/apache/phoenix/pig/PhoenixHBaseLoaderIT.class

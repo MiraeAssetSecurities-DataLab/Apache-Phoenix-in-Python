@@ -1,0 +1,17 @@
+org/apache/phoenix/flume/DefaultKeyGenerator$4.class
+org/apache/phoenix/flume/DefaultKeyGenerator.class
+org/apache/phoenix/flume/DefaultKeyGenerator$5.class
+org/apache/phoenix/flume/DefaultKeyGenerator$2.class
+org/apache/phoenix/flume/KeyGenerator.class
+org/apache/phoenix/flume/sink/PhoenixSink.class
+org/apache/phoenix/flume/serializer/EventSerializer.class
+org/apache/phoenix/flume/serializer/CsvEventSerializer.class
+org/apache/phoenix/flume/DefaultKeyGenerator$1.class
+org/apache/phoenix/flume/FlumeConstants.class
+org/apache/phoenix/flume/serializer/EventSerializers.class
+org/apache/phoenix/flume/serializer/CsvEventSerializer$CsvLineParser.class
+org/apache/phoenix/flume/serializer/JsonEventSerializer.class
+org/apache/phoenix/flume/serializer/BaseEventSerializer.class
+org/apache/phoenix/flume/SchemaHandler.class
+org/apache/phoenix/flume/DefaultKeyGenerator$3.class
+org/apache/phoenix/flume/serializer/RegexEventSerializer.class

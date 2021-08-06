@@ -1,0 +1,3 @@
+org/apache/phoenix/kafka/consumer/PhoenixConsumerTool.class
+org/apache/phoenix/kafka/KafkaConstants.class
+org/apache/phoenix/kafka/consumer/PhoenixConsumer.class

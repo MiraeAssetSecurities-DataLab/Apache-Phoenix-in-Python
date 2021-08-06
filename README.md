@@ -49,6 +49,7 @@ Copyright ⓒ2014 Apache Software Foundation. All Rights Reserved.
     
 5. Use compiled JAR file in Python
     * JAR Directory: apache-phoenix-4.14.3-HBase-1.3-src-v10/phoenix-client/target/<strong>phoenix-4.14.3-HBase-1.3-client.jar</strong>
+        * In this project, there is no JAR file because of the size(104MB).
     * Apply JAR to Python using <strong>Jpype</strong>
 
 ### Prerequisite
